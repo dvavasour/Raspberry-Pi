@@ -1,2 +1,2 @@
 # Raspberry-Pi
-My Raspi Fiddlings
+My Raspi Fiddlings - see wiki
